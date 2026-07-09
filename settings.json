@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Webones-KICM.aternos.me",
-    "port": 25565,
+    "port": 61020,
     "version": "1.21.4",
     "try-creative": false
   },
