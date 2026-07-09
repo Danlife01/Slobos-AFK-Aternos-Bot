@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MCANARQUICO-3fc1.aternos.me",
-    "port": 32820,
+    "ip": "Webones-KICM.aternos.me",
     "version": "1.21",
     "try-creative": false
   },
